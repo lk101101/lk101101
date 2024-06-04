@@ -5,7 +5,7 @@
 - 🌱 Former SWE intern at Khan Academy (2022)
 - ✨ Experienced with C++, Python, and React
 - 📊 Passionate about data visualization and full-stack development!
--  💬 Ask me about names, dogs, pop music, 
+- 💬 Ask me about names, dogs, pop music, and NYT puzzles
 
 <!--
 **lk101101/lk101101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
