@@ -1,23 +1,8 @@
-## Hi, I'm Lara! 
+## Hi, I'm [Lara](https://www.linkedin.com/in/lara-0-k/)! 
 
 - 〽️ Current master's student studying Computational Medicine and Bioinformatics at the University of Michigan!
 - 💻 B.S. in Computer Science (2023)
-- 🌱 Former SWE intern at Khan Academy (2022)
+- 🌱 SWE intern at Khan Academy (2022)
 - ✨ Experienced with C++, Python, and React
-- 📊 Passionate about data visualization and full-stack development!
+- 📊 Passionate about data visualization and full-stack development
 - 💬 Ask me about names, dogs, pop music, and NYT puzzles
-
-<!--
-**lk101101/lk101101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
