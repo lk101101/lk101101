@@ -4,4 +4,3 @@
 - 🌱 SWE intern at Khan Academy (2022)
 - ✨ Experienced with C++, Python, and React
 - 📊 Passionate about data visualization and full-stack development
-- 💬 Ask me about names, dogs, pop music, and NYT puzzles
